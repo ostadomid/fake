@@ -1,7 +1,11 @@
 {
-  "products":[
-    {"id":1, "name":"TV"},
-    {"id":2, "name":"DVD-Player"},
-    {"id":3, "name":"Headphone"}
-  ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
