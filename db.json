@@ -1,11 +1,20 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "tv"
+    },
+    {
+      "id": 2,
+      "name": "radio"
+    },
+    {
+      "id": 3,
+      "name": "dvd-player"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "categories": [
+    {"id": 1, "name": "Electronic"},
+    {"id": 2, "name": "Home-Appliance"},
+  ]
 }
